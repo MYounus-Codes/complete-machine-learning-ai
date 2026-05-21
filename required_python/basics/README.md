@@ -17,7 +17,7 @@ This section covers the first Python concepts you should practice before moving 
 - `basics_intro.py` - first examples and print/input practice
 - `basics_exercises.py` - short exercises
 - `guess_the_number.py` - simple project
-- `loops/` - dedicated loops lesson set with staged projects
+- `projects/` - basic, medium, and advanced basics projects
 
 ## Study flow
 
@@ -26,7 +26,3 @@ This section covers the first Python concepts you should practice before moving 
 3. Modify the values.
 4. Solve the exercises without looking.
 5. Build the mini project again from scratch.
-
-## Loop practice
-
-If you want a focused loops lesson, start with `loops/README.md` and work through the files in order.
